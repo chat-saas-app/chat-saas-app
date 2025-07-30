@@ -1,0 +1,7 @@
+### Frontend
+- **React** - Biblioteca JavaScript para interface
+- **Vite** - Build tool moderno
+- **Tailwind CSS** - Framework CSS utilitário
+- **shadcn/ui** - Componentes de interface
+- **Lucide Icons** - Ícones modernos
+- **Socket.IO Client** - Cliente WebSocket
