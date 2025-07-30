@@ -1,0 +1,6 @@
+### Backend
+- **Flask** - Framework web Python
+- **Flask-SocketIO** - WebSocket para comunicação em tempo real
+- **SQLAlchemy** - ORM para banco de dados
+- **SQLite** - Banco de dados local
+- **Flask-CORS** - Suporte a CORS para integração frontend/backend
